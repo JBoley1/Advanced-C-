@@ -1,0 +1,6 @@
+C:\Users\Dell-Studio11\Downloads\Advanced-C-\Delegate Example2\Delegate Example2\bin\Debug\Delegate Example2.exe.config
+C:\Users\Dell-Studio11\Downloads\Advanced-C-\Delegate Example2\Delegate Example2\bin\Debug\Delegate Example2.exe
+C:\Users\Dell-Studio11\Downloads\Advanced-C-\Delegate Example2\Delegate Example2\bin\Debug\Delegate Example2.pdb
+C:\Users\Dell-Studio11\Downloads\Advanced-C-\Delegate Example2\Delegate Example2\obj\Debug\Delegate Example2.csprojResolveAssemblyReference.cache
+C:\Users\Dell-Studio11\Downloads\Advanced-C-\Delegate Example2\Delegate Example2\obj\Debug\Delegate Example2.exe
+C:\Users\Dell-Studio11\Downloads\Advanced-C-\Delegate Example2\Delegate Example2\obj\Debug\Delegate Example2.pdb

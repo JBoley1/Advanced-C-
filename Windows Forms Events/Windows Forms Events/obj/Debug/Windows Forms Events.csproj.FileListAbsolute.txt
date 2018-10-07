@@ -1,0 +1,9 @@
+C:\Users\Dell-Studio11\Downloads\Advanced-C-\Windows Forms Events\Windows Forms Events\bin\Debug\Windows Forms Events.exe.config
+C:\Users\Dell-Studio11\Downloads\Advanced-C-\Windows Forms Events\Windows Forms Events\bin\Debug\Windows Forms Events.exe
+C:\Users\Dell-Studio11\Downloads\Advanced-C-\Windows Forms Events\Windows Forms Events\bin\Debug\Windows Forms Events.pdb
+C:\Users\Dell-Studio11\Downloads\Advanced-C-\Windows Forms Events\Windows Forms Events\obj\Debug\Windows Forms Events.csprojResolveAssemblyReference.cache
+C:\Users\Dell-Studio11\Downloads\Advanced-C-\Windows Forms Events\Windows Forms Events\obj\Debug\Windows_Forms_Events.Properties.Resources.resources
+C:\Users\Dell-Studio11\Downloads\Advanced-C-\Windows Forms Events\Windows Forms Events\obj\Debug\Windows Forms Events.csproj.GenerateResource.Cache
+C:\Users\Dell-Studio11\Downloads\Advanced-C-\Windows Forms Events\Windows Forms Events\obj\Debug\Windows Forms Events.exe
+C:\Users\Dell-Studio11\Downloads\Advanced-C-\Windows Forms Events\Windows Forms Events\obj\Debug\Windows Forms Events.pdb
+C:\Users\Dell-Studio11\Downloads\Advanced-C-\Windows Forms Events\Windows Forms Events\obj\Debug\Windows_Forms_Events.Form1.resources
